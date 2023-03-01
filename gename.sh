@@ -1,3 +1,4 @@
+#!/bin/bash
 #Generates a random username quickly
 if [ -f 'namess.txt' ]
 then
